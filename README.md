@@ -33,6 +33,5 @@ After analyzing the Airbnb data in Seattle, the following questions have been an
    - High-rated listings often include premium amenities like gyms, air conditioning, and elevators.
    - In contrast, lower-rated listings are more likely to allow pets or smoking.
 
-* How to run:
-    - pip install -r requirements.txt
-    - Run all main.ipynb
+
+**For blog post you can check hear** [Seattle Airbnb Analysis](https://trandat24318791998.github.io/index.html)
